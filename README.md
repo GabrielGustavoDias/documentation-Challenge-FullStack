@@ -90,7 +90,7 @@ O objeto Client é definido como:
 
 ---
 
-### 1.1. **Criação de Usuário**
+### 1.1. **Criação de Clients**
 
 [ Voltar para os Endpoints ](#5-endpoints)
 
