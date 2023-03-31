@@ -3,13 +3,11 @@
 ## Tabela de Conteúdos
 
 - [Visão Geral](#1-visão-geral)
-- [Diagrama ER](#2-diagrama-er)
-- [Início Rápido](#3-início-rápido)
+- [Início Rápido](#2-início-rápido)
   - [Instalando Dependências](#31-instalando-dependências)
-  - [Variáveis de Ambiente](#32-variáveis-de-ambiente)
-  - [Migrations](#33-migrations)
-- [Autenticação](#4-autenticação)
-- [Endpoints](#5-endpoints)
+  - [Variáveis de Ambiente](#22-variáveis-de-ambiente)
+  - [Migrations](#23-migrations)
+- [Endpoints](#4-endpoints)
 
 ---
 
